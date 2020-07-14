@@ -1,4 +1,5 @@
 public class Computer {
+	
 	int model;
 	String cpu;
 	String gpu;

@@ -1,6 +1,7 @@
 public class Main {
 
 	public static void main(String[] args) {
+		
 		Hash hash = new Hash(25);
 		hash.insert(new Computer(38, "i9-9900k", "GTX 1660 SUPER"));
 		hash.insert(new Computer(25, "i7-7700k", "GTX 1660 Ti"));
